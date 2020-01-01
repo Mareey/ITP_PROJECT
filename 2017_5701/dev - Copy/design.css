@@ -1,0 +1,49 @@
+body{
+    background-image: url(websiteimages/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logowrapper{
+    position: static;
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+
+.tab{
+    overflow: hidden;
+    border: 1px solid ;
+    padding: 25px;
+}
+
+.tab button{
+    background-color: inherit;
+    float: initial;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 90px;
+    transition: 0.3s;
+    font-size: 35px;
+}
+
+.tab button:hover{
+    background-color: lightseagreen;
+}
+
+.tab button.active{
+    background-color: bisque;
+}
+
+.tabcontent{
+    display: inline-block;
+    padding: 14px 12px;
+    font-family: 'Segoe UI';
+    font-size: 45px;
+    border-top: none;
+    position: static;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
