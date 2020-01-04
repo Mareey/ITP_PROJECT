@@ -1,0 +1,32 @@
+.boxed{
+    border:2px solid blue;
+}
+
+.boxed{
+    border:2px solid red;
+}
+.container {
+    position: relative;
+}
+
+.text-block{
+    position: absolute;
+    bottom:500;
+    right:500;
+    color:black;
+    padding-left: 400;
+    padding-right: 400;
+}
+
+.container{
+    position: relative;
+}
+
+.text-block{
+    position: absolute;
+    bottom:1000;
+    right:1000;
+    color:black;
+    padding-left: 900;
+    padding-right: 900;
+}
