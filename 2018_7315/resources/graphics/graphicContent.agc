@@ -1,0 +1,1 @@
+{"version":"1.5.0","children":[],"resources":{"gradients":{},"clipPaths":{},"meta":{"ux":{"symbols":[],"colorSwatches":[],"documentLibrary":{"version":4,"elements":[]},"gridDefaults":{"defaultGrid":null,"layoutOverrides":null}}}},"artboards":{"837e5130-c1c7-40fd-8ffc-bc65cd14f4b3":{"width":1920,"height":1080,"name":"Web 1920 – 1","x":0,"y":0,"viewportHeight":1080}}}
